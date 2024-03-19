@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name"> Art Space </string>
+    <string name="img_art">Image Art</string>
+    <string name="title_art">Artwork Title</string>
+    <string name="artist_year_art">Artwork Artist (Year)</string>
+    <string name="previus_art">Previus</string>
+    <string name="next_art">Next</string>
+
+    <string name="title_art_one">Rapsodia de colores</string>
+    <string name="title_art_two">El lienzo del alma</string>
+    <string name="title_art_three">El jardín del artista</string>
+    <string name="title_art_four">Pinturas en el viento</string>
+    <string name="title_art_five">Sinfonía cromática</string>
+    <string name="title_art_six">La melodía de la luz</string>
+    <string name="title_art_seven">La poesía del color</string>
+    <string name="title_art_eight">El abrazo del pincel</string>
+    <string name="title_art_nine">Paisajes del corazón</string>
+
+    <string name="name_art_one">PABLO PICASSO - 1881</string>
+    <string name="name_art_two">GIOTTO DI BONDONE - 1267</string>
+    <string name="name_art_three">LEONARDO DA VINCI - 1452</string>
+    <string name="name_art_four">PAUL CÉZANNE - 1839</string>
+    <string name="name_art_five">REMBRANDT VAN RIJN - 1606</string>
+    <string name="name_art_six">DIEGO VELÁZQUEZ - 1599</string>
+    <string name="name_art_seven">WASSILY KANDINSKY - 1866</string>
+    <string name="name_art_eight">CLAUDE MONET - 1840</string>
+    <string name="name_art_nine">JAN VAN EYCK - 1390</string>
+
+</resources>
